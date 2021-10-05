@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vehicle
+  - Wall
+  - Dirt
+  - Water
+  - Collectible
+  - FinishTrigger
+  - JumpObstacle
+  - KnockObstacle
+  - LongitudinalWall
+  - Hatch
+  - StopObstacle
+  - Washer
+  - SlotMachine
+  - Enemy
+  - FakeLiquid
+  - PathSwitcher
+  - StateSwitcher
+  - FinishStopPoint
+  - CentrifyTrigger
+  - DirtTextureSwitcher
+  - FinishCoin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

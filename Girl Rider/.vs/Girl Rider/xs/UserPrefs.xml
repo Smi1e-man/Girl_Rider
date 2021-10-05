@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{80E15D8A-D422-3558-80A1-D445CFC753A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AnimController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AnimController.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Account.cs" />
+      <File FileName="Assets/DirtController.cs" />
+      <File FileName="Assets/RippleSpawner.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Girl Rider" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AnimController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c034b8d8-d172-45d5-a370-71f6d5326b9f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

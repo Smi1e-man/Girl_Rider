@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 7e7c94c15df8847408cd3e574301a3d6
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6712369695479197947
+    second: Cube.002|Cube.002Action
+  - first:
+      74: -7944832092688391277
+    second: Cube.002|Cube.003Action
+  - first:
+      74: 157848017080580743
+    second: Cube.002|Cube.004Action.001
+  - first:
+      74: 5217516906116264554
+    second: Cube.002|Cube.005Action.001
+  - first:
+      74: 2787269716607297694
+    second: Cube.002|Cube.006Action.001
+  - first:
+      74: -1041553994202895661
+    second: Cube.002|CylinderAction
+  - first:
+      74: 3244617880250996793
+    second: Cube.003|Cube.002Action
+  - first:
+      74: -8906869970063597199
+    second: Cube.003|Cube.003Action
+  - first:
+      74: -2594436122842902539
+    second: Cube.003|Cube.004Action.001
+  - first:
+      74: 6649034528946690998
+    second: Cube.003|Cube.005Action.001
+  - first:
+      74: -1419217305880154916
+    second: Cube.003|Cube.006Action.001
+  - first:
+      74: 3229214716036803315
+    second: Cube.003|CylinderAction
+  - first:
+      74: 5419522975655660682
+    second: Cylinder|Cube.002Action
+  - first:
+      74: -8150022511611145228
+    second: Cylinder|Cube.003Action
+  - first:
+      74: 8149280362277932727
+    second: Cylinder|Cube.004Action.001
+  - first:
+      74: 8755249555930586122
+    second: Cylinder|Cube.005Action.001
+  - first:
+      74: -3840914234372566097
+    second: Cylinder|Cube.006Action.001
+  - first:
+      74: -88723805440604879
+    second: Cylinder|CylinderAction
+  - first:
+      74: 3668844931122048522
+    second: Cube.004|Cube.002Action
+  - first:
+      74: 462318446980670716
+    second: Cube.004|Cube.003Action
+  - first:
+      74: -312195316171472361
+    second: Cube.004|Cube.004Action.001
+  - first:
+      74: -3798820641073459443
+    second: Cube.004|Cube.005Action.001
+  - first:
+      74: 4785696795670276153
+    second: Cube.004|Cube.006Action.001
+  - first:
+      74: 628854122778465988
+    second: Cube.004|CylinderAction
+  - first:
+      74: 7250341002990162127
+    second: Cube.005|Cube.002Action
+  - first:
+      74: 9146543417632441198
+    second: Cube.005|Cube.003Action
+  - first:
+      74: 5398891183849665883
+    second: Cube.005|Cube.004Action.001
+  - first:
+      74: 3177383393946230413
+    second: Cube.005|Cube.005Action.001
+  - first:
+      74: -4770276403726337502
+    second: Cube.005|Cube.006Action.001
+  - first:
+      74: -7760758874470915902
+    second: Cube.005|CylinderAction
+  - first:
+      74: -3143186894332721769
+    second: Cube.006|Cube.002Action
+  - first:
+      74: -4008819099484803213
+    second: Cube.006|Cube.003Action
+  - first:
+      74: -9151669201993238714
+    second: Cube.006|Cube.004Action.001
+  - first:
+      74: 5306481403490295043
+    second: Cube.006|Cube.005Action.001
+  - first:
+      74: -695571545634295498
+    second: Cube.006|Cube.006Action.001
+  - first:
+      74: 2612419767064235294
+    second: Cube.006|CylinderAction
+  - first:
+      74: 4728463426179291966
+    second: Cube.002|Cube.002Action //// Cube.002
+  - first:
+      74: -1048885095852323358
+    second: Cube.002|Cube.003Action //// Cube.002
+  - first:
+      74: 7876098673515231252
+    second: Cube.002|Cube.004Action.001 //// Cube.002
+  - first:
+      74: 6380588488488563857
+    second: Cube.002|Cube.005Action.001 //// Cube.002
+  - first:
+      74: -7829599823323298219
+    second: Cube.002|Cube.006Action.001 //// Cube.002
+  - first:
+      74: 7103870071468759684
+    second: Cube.002|CylinderAction //// Cube.002
+  - first:
+      74: -1265018372077247145
+    second: Cube.003|Cube.002Action //// Cube.003
+  - first:
+      74: 1782345250824518518
+    second: Cube.003|Cube.003Action //// Cube.003
+  - first:
+      74: -4249555668741245038
+    second: Cube.003|Cube.004Action.001 //// Cube.003
+  - first:
+      74: 7344527502058882699
+    second: Cube.003|Cube.005Action.001 //// Cube.003
+  - first:
+      74: -9223220428121132202
+    second: Cube.003|Cube.006Action.001 //// Cube.003
+  - first:
+      74: 6873749393034654266
+    second: Cube.003|CylinderAction //// Cube.003
+  - first:
+      74: -5449118770086622234
+    second: Cylinder|Cube.002Action //// Cylinder
+  - first:
+      74: -1863343425575331663
+    second: Cylinder|Cube.003Action //// Cylinder
+  - first:
+      74: -701689070314344695
+    second: Cylinder|Cube.004Action.001 //// Cylinder
+  - first:
+      74: 3899493129105538673
+    second: Cylinder|Cube.005Action.001 //// Cylinder
+  - first:
+      74: 2238273314897369977
+    second: Cylinder|Cube.006Action.001 //// Cylinder
+  - first:
+      74: 6519629933823074772
+    second: Cylinder|CylinderAction //// Cylinder
+  - first:
+      74: -1597220470510555567
+    second: Cube.004|Cube.002Action //// Cube.004
+  - first:
+      74: 7344022667712465532
+    second: Cube.004|Cube.003Action //// Cube.004
+  - first:
+      74: 2043003054615823549
+    second: Cube.004|Cube.004Action.001 //// Cube.004
+  - first:
+      74: -7714075292367268315
+    second: Cube.004|Cube.005Action.001 //// Cube.004
+  - first:
+      74: 2295198844365906341
+    second: Cube.004|Cube.006Action.001 //// Cube.004
+  - first:
+      74: 6322036397611220668
+    second: Cube.004|CylinderAction //// Cube.004
+  - first:
+      74: -3652646106073060406
+    second: Cube.005|Cube.002Action //// Cube.005
+  - first:
+      74: 6904341008186939792
+    second: Cube.005|Cube.003Action //// Cube.005
+  - first:
+      74: 3504481685244649844
+    second: Cube.005|Cube.004Action.001 //// Cube.005
+  - first:
+      74: 5632733944210493084
+    second: Cube.005|Cube.005Action.001 //// Cube.005
+  - first:
+      74: -2675402889184142427
+    second: Cube.005|Cube.006Action.001 //// Cube.005
+  - first:
+      74: 3634051338790117410
+    second: Cube.005|CylinderAction //// Cube.005
+  - first:
+      74: 870665482313304955
+    second: Cube.006|Cube.002Action //// Cube.006
+  - first:
+      74: -6628996023740951826
+    second: Cube.006|Cube.003Action //// Cube.006
+  - first:
+      74: -640991299761169049
+    second: Cube.006|Cube.004Action.001 //// Cube.006
+  - first:
+      74: -6153032121666920922
+    second: Cube.006|Cube.005Action.001 //// Cube.006
+  - first:
+      74: -7560983912383871484
+    second: Cube.006|Cube.006Action.001 //// Cube.006
+  - first:
+      74: -3948828772315069673
+    second: Cube.006|CylinderAction //// Cube.006
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
